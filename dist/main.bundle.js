@@ -5,6 +5,8 @@ var __webpack_exports__ = {};
   \**********************/
 var test = "123";
 console.log(test);
+var chiffre = 5;
+console.log(chiffre);
 /******/ })()
 ;
 //# sourceMappingURL=main.bundle.js.map
